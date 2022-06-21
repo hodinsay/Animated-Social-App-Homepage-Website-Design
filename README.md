@@ -6,7 +6,7 @@ An animated social app website design. The website desgin can serve as a layout 
 
 # How It's Made: 
 
-**Tech Used**: HTML 5, CSS 3, and JavaScript
+**Tech Used**: HTML 5 and CSS 3
 
 # Lessons Learned:
 
