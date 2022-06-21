@@ -16,3 +16,5 @@ An animated social app website design. The website desgin can serve as a layout 
 # Other Examples: 
 
 Take a look at these couple examples that I have in my own portfolio:
+
+-**Animated Social App Homepage Website Design**: https://github.com/hodinsay/Animated-Watch-Wear-Homepage-Website-Design
