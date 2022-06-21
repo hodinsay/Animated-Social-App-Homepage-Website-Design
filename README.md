@@ -1,4 +1,4 @@
-# Animated-Social-App-Website-Design
+# Animated Social App Website Design
 
 An animated social app website design. The website desgin can serve as a layout for social app landing page and encourage users to download the app.
 
